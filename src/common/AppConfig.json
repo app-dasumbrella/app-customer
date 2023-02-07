@@ -1,0 +1,8 @@
+{
+  "Shopify": {
+    "url": "https://beostore.myshopify.com",
+    "graphqlUrl": "https://beostore.myshopify.com/api/graphql",
+    "storeAccessToken": "3e702f1189b419b9899f9e86c9a615a9",
+    "shopId": "18754399"
+  }
+}

@@ -123,7 +123,7 @@ export default {
     width: Styles.window.width,
     marginTop: 10,
     lineHeight: 25,
-    fontFamily: Constants.fontFamily,
+    //fontFamily: Constants.fontFamily,
   },
 
   button: (theme) => ({

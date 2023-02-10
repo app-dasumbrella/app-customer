@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: moderateScale(18),
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     color: Color.blackTextPrimary,
     marginVertical: 10
   },

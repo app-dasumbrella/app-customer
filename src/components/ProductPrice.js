@@ -58,7 +58,7 @@ const styles = {
   textList: {
     color: Color.black,
     fontSize: Styles.FontSize.medium,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   salePrice: {
     textDecorationLine: "line-through",
@@ -70,7 +70,7 @@ const styles = {
   price: {
     color: Color.black,
     fontSize: Styles.FontSize.small,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   saleWrap: (theme) => ({
     borderRadius: 5,

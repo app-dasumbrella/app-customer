@@ -10,7 +10,7 @@ export default StyleSheet.create({
   headerLabel: {
     color: "#333",
     fontSize: 28,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
     marginBottom: 0,
     marginLeft: 22,
     position: "absolute",
@@ -31,7 +31,7 @@ export default StyleSheet.create({
   headerLabelStatic: {
     color: "#333",
     fontSize: 20,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
     marginBottom: 0,
     marginLeft: 55,
     marginTop: isAndroid ? -5 : 12,

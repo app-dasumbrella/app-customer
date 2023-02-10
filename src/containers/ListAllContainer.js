@@ -118,6 +118,7 @@ const styles = StyleSheet.create({
   headerTitle: {
     color: Color.textDefault,
     fontSize: 30,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
 });

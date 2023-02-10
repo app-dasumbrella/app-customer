@@ -28,7 +28,7 @@ export default {
     marginTop: 0,
     color: theme.primaryColor,
     alignSelf: "flex-end",
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     letterSpacing: 0.5,
   }),
   icon: {
@@ -40,6 +40,6 @@ export default {
     fontSize: 21,
     color: "#454553",
     letterSpacing: 2,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
 };

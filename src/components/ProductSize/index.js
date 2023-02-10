@@ -73,7 +73,7 @@ const styles = {
   text: {
     fontSize: moderateScale(24),
     fontWeight: 'bold',
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     color: '#000'
   },
 };

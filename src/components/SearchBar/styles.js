@@ -15,7 +15,7 @@ export default StyleSheet.create({
     flex: 1,
     fontSize: 16,
     paddingLeft: 20,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     color: Color.blackTextPrimary,
   },
 });

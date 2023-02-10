@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 18,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     color: Color.blackTextPrimary,
   },
   text2: {

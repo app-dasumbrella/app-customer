@@ -26,7 +26,7 @@ export default StyleSheet.create({
   },
   title: {
     fontSize: 15,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     color: Color.Text,
   },
   priceContainer: {
@@ -38,13 +38,13 @@ export default StyleSheet.create({
   price: {
     fontSize: 20,
     color: Color.Text,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   productVariant: {
     marginLeft: 10,
     fontSize: 11,
     color: Color.blackTextSecondary,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   quantity: {
     marginRight: 10,

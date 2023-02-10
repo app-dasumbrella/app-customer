@@ -151,12 +151,12 @@ const styles = {
   mainCategoryText: {
     color: "white",
     fontSize: 25,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   numberOfProductsText: {
     color: "white",
     fontSize: 12,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   overlay: {
     // alignItems: "center",

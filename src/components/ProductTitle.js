@@ -19,7 +19,8 @@ export default class ProductTitle extends Component {
 const styles = StyleSheet.create({
   name: {
     fontSize: 14,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     letterSpacing: 1,
     color: "#454553",
   },

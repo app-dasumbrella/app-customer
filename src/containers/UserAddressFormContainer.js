@@ -57,7 +57,8 @@ const styles = StyleSheet.create({
     marginBottom: verticalScale(5),
     fontSize: moderateScale(15),
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     fontWeight: 'bold'
   },
   headers: {
@@ -66,7 +67,8 @@ const styles = StyleSheet.create({
     fontSize: moderateScale(16),
     fontWeight: 'bold',
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   formContent: {
     marginLeft: 10,

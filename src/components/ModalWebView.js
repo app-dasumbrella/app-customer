@@ -135,7 +135,8 @@ const styles = StyleSheet.create({
     marginRight: 10,
     marginLeft: 10,
     zIndex: 9999,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   webView: {
     paddingTop: 50,

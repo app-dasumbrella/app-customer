@@ -10,7 +10,7 @@ export default StyleSheet.create({
     padding: 20,
     flexDirection: "row",
     flexWrap: "wrap",
-    
+
   },
   optionContainer: {
     width: width / 2 - 10,
@@ -44,7 +44,7 @@ export default StyleSheet.create({
     padding: 30,
     marginTop: 0,
     paddingTop: 30,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   formCard: {
     marginTop: 10,
@@ -70,7 +70,8 @@ export default StyleSheet.create({
   label: {
     fontSize: 14,
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   descriptionView: {
     marginTop: 20,

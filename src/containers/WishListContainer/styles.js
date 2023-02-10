@@ -24,12 +24,12 @@ export default StyleSheet.create({
   label: {
     fontSize: 16,
     color: Color.Text,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   value: {
     fontSize: 16,
     color: Color.headerTintColor,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
     right: 20,
     position: "absolute",
     top: 60,
@@ -104,7 +104,7 @@ export default StyleSheet.create({
     width: 230,
     lineHeight: 40,
     opacity: 0.8,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   message: {
     fontSize: 14,
@@ -113,7 +113,7 @@ export default StyleSheet.create({
     width: 230,
     marginTop: 10,
     lineHeight: 25,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   bottomView: {
     flexDirection: "row",

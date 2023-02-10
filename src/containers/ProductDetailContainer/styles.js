@@ -85,25 +85,28 @@ export default StyleSheet.create({
   productName: {
     fontSize: 24,
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     marginBottom: 5,
     marginRight: 5,
   },
   productTypeName: {
     fontSize: 16,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     lineHeight: 21,
     color: Color.TextDefault,
   },
   TName: {
     fontSize: 16,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
 
     color: Color.blackTextSecondary,
   },
   amounts: {
     fontSize: 16,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
 
     color: Color.blackTextPrimary,
   },
@@ -120,7 +123,7 @@ export default StyleSheet.create({
     color: Color.blackTextDisable,
     marginLeft: 5,
     marginTop: 4,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   bottomView: {
     position: "absolute",
@@ -154,7 +157,7 @@ export default StyleSheet.create({
     color: "white",
     fontSize: 14,
     fontWeight: "bold",
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   description: {
     padding: 20,
@@ -185,12 +188,12 @@ export default StyleSheet.create({
 
   attributeName: {
     color: "#aaa",
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     fontSize: 11,
   },
   textDescription: {
     fontSize: 16,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     lineHeight: 20,
     color: Color.TextDefault,
   },
@@ -228,7 +231,7 @@ export default StyleSheet.create({
   },
   text: {
     fontSize: 28,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   slider: {
     width: slideWidth,

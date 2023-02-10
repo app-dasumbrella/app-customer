@@ -244,13 +244,15 @@ const styles = StyleSheet.create({
     color: "white",
     fontSize: 17,
     marginTop: 3,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     letterSpacing: 0.5,
   },
   textTransparent: (theme) => ({
     color: theme.primaryColor,
     fontSize: 11,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     letterSpacing: 0.5,
   }),
   borderButton: {

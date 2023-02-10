@@ -218,19 +218,19 @@ const styles = StyleSheet.create({
   text_list: {
     color: Color.black,
     fontSize: Styles.FontSize.medium,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     fontWeight: '600'
   },
   text_list1: {
     color: Color.black,
     fontSize: moderateScale(14),
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     fontWeight: '400'
   },
   text_grid: {
     color: Color.black,
     fontSize: Styles.FontSize.small,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   textRating: {
     fontSize: Styles.FontSize.small,
@@ -253,7 +253,7 @@ const styles = StyleSheet.create({
   cardPriceSale: {
     fontSize: 15,
     marginTop: 2,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   price: {
     color: Color.black,
@@ -279,7 +279,7 @@ const styles = StyleSheet.create({
   cardPrice: {
     fontSize: 18,
     marginBottom: 8,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   btnWishList: {
     position: "absolute",

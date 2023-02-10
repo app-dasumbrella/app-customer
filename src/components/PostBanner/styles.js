@@ -64,7 +64,7 @@ export default StyleSheet.create({
     color: "white",
     fontSize: 20,
     textAlign: "left",
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   bannerDate: {
     backgroundColor: "transparent",

@@ -349,12 +349,12 @@ const styles = {
   headerDate: {
     fontSize: 19,
     marginBottom: 10,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   headerStore: (theme) => ({
     color: theme.primaryColor,
     fontSize: 30,
     marginBottom: 10,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   }),
 };

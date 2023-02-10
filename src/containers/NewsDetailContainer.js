@@ -317,7 +317,8 @@ const styles = {
     fontWeight: "500",
     fontSize: 22,
     textAlign: I18nManager.isRTL ? "right" : "left",
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   row: {
     flexDirection: "row",
@@ -347,10 +348,12 @@ const styles = {
   rowLabel: {
     fontSize: 16,
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   label: {
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     fontSize: 16,
     color: Color.Text,
     marginLeft: 8,
@@ -364,6 +367,6 @@ const styles = {
     marginBottom: 12,
     marginLeft: 12,
     textAlign: I18nManager.isRTL ? "right" : "left",
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
 };

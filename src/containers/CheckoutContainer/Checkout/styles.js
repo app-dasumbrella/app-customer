@@ -19,23 +19,24 @@ export default {
   label: {
     fontSize: 14,
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
-  labelText:{
-    fontSize:moderateScale(14),
-    fontWeight:'bold',
-    color:'black',
-    marginBottom:moderateScale(8)
+  labelText: {
+    fontSize: moderateScale(14),
+    fontWeight: 'bold',
+    color: 'black',
+    marginBottom: moderateScale(8)
   },
   label2: {
     fontSize: 10,
     color: Color.Text,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   value: {
     fontSize: 18,
     color: Color.headerTintColor,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   summary: {
     padding: 10,
@@ -53,12 +54,13 @@ export default {
   priceItems: (theme) => ({
     color: theme.primaryColor,
     fontSize: 18,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   }),
   shippingMethod: {
     marginBottom: 20,
   },
-  marginVerticals:{
+  marginVerticals: {
     marginVertical: verticalScale(5)
   }
 };

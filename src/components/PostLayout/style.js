@@ -279,7 +279,7 @@ export default StyleSheet.create({
     marginRight: 8,
     color: "#333",
     fontWeight: "400",
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
     textAlign: I18nManager.isRTL ? "right" : "left",
   },
   simpleContent: {

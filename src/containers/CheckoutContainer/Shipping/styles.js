@@ -18,12 +18,13 @@ export default {
   label: {
     fontSize: 14,
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   value: {
     fontSize: 18,
     color: Color.headerTintColor,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   summary: {
     padding: 10,
@@ -41,7 +42,8 @@ export default {
   priceItems: (theme) => ({
     color: theme.primaryColor,
     fontSize: 18,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   }),
   shippingMethod: {
     marginBottom: 20,

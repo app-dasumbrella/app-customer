@@ -62,7 +62,8 @@ export default class CheckoutProductItem extends Component {
               fontSize: moderateScale(14),
               textAlign: 'left',
 
-              fontFamily: Constants.fontFamilyBold,
+              // fontFamily: Constants.fontFamilyBold,
+
             }}>
               {Tools.getPrice(price, number_of_decimals, currency)}
             </Text>
@@ -112,7 +113,8 @@ export default class CheckoutProductItem extends Component {
                       color: "black",
                       fontWeight: "bold",
                       fontSize: moderateScale(14),
-                      fontFamily: Constants.fontFamilyBold,
+                      // fontFamily: Constants.fontFamilyBold,
+
                       textAlign: 'left'
                     }}>
                       {Tools.getPrice(
@@ -152,11 +154,12 @@ const styles = StyleSheet.create({
   title: {
     color: `rgba(0,0,0,0.8)`,
     fontSize: 16,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   price: {
     color: Color.Text,
     fontSize: 16,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
 });

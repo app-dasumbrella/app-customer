@@ -30,7 +30,7 @@ export default StyleSheet.create({
   },
   fullName: {
     fontSize: 24,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     color: Color.SideMenuText,
     backgroundColor: "transparent",
     marginBottom: 6,
@@ -41,7 +41,7 @@ export default StyleSheet.create({
     fontSize: 13,
     textAlign: "left",
     color: Color.SideMenuTextActived,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   headerCategory: {
     flex: 1,
@@ -54,7 +54,7 @@ export default StyleSheet.create({
     marginBottom: 10,
   },
   textHeaderCategory: {
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     fontSize: Styles.FontSize.big,
     color: Color.SideMenuTextActived,
     paddingRight: I18nManager.isRTL ? 20 : 0,

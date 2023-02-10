@@ -31,7 +31,8 @@ export default StyleSheet.create({
     width: 230,
     lineHeight: 40,
     opacity: 0.8,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   labelView: {
     flexDirection: "row",
@@ -48,7 +49,8 @@ export default StyleSheet.create({
     color: Color.TabActive,
     marginTop: 10,
     marginBottom: 4,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   row: {
     flexDirection: "row",
@@ -59,10 +61,12 @@ export default StyleSheet.create({
   rowLabel: {
     fontSize: 16,
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   label: {
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     fontSize: 16,
     color: Color.Text,
     marginLeft: 8,
@@ -70,7 +74,7 @@ export default StyleSheet.create({
   message: {
     fontSize: moderateScale(16),
     textAlign: "center",
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     color: Color.Text,
     width: 230,
     marginTop: 10,
@@ -87,7 +91,8 @@ export default StyleSheet.create({
     }),
   },
   title: {
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     color: Color.TextDefault,
     marginBottom: 5,
   },

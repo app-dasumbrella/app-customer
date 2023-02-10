@@ -19,13 +19,13 @@ export default StyleSheet.create({
     color: "#CED7DD",
     fontSize: 16,
     textAlign: "center",
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
     marginLeft: 10,
     marginRight: 10,
   },
   labelActive: {
     color: Color.green,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   indicatorContainer: {
     flexDirection: "row",

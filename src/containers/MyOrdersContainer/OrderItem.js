@@ -102,7 +102,7 @@ export default class OrderItem extends React.Component {
             {
               fontWeight: "bold",
               fontSize: 16,
-              fontFamily: Constants.fontHeader,
+              //fontFamily: Constants.fontHeader,
               color: "#333",
             }
           )}

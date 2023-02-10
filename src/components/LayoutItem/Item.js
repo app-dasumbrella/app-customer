@@ -51,7 +51,8 @@ const styles = {
     fontSize: 15,
     lineHeight: Platform.OS === "android" ? 24 : 20,
     color: Color.TextDefault,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     alignSelf: "flex-start",
     marginBottom: 4,
   },

@@ -251,7 +251,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   text: {
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   card: {
     marginHorizontal: 5,

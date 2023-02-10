@@ -159,7 +159,8 @@ const styles = {
     paddingTop: 20,
   },
   text: {
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     fontSize: 20,
   },
 };

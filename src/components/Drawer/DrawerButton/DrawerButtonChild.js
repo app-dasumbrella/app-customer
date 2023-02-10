@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   text: {
     color: Color.SideMenuText,
     fontSize: Styles.FontSize.tiny,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
 });
 

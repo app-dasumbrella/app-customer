@@ -142,7 +142,7 @@ const styles = StyleSheet.create({
     padding: 4,
     color: 'grey',
     fontSize: moderateScale(16),
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
 });
 

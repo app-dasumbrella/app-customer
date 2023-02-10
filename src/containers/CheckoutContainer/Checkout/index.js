@@ -1348,7 +1348,8 @@ export default class Checkout extends Component {
                     color: "black",
                     fontWeight: "bold",
                     fontSize: moderateScale(14),
-                    fontFamily: Constants.fontFamilyBold,
+                    // fontFamily: Constants.fontFamilyBold,
+
                   }}
                 >
                   {" "}
@@ -1518,7 +1519,8 @@ export default class Checkout extends Component {
                     color: "black",
                     fontWeight: "bold",
                     fontSize: moderateScale(14),
-                    fontFamily: Constants.fontFamilyBold,
+                    // fontFamily: Constants.fontFamilyBold,
+
                   }}
                 >
                   {" "}

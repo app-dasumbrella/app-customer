@@ -60,7 +60,7 @@ export default {
   label: {
     fontSize: 18,
     color: Color.Text,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   value: {
     fontSize: moderateScale(15),
@@ -83,7 +83,8 @@ export default {
   }),
   emptyText: {
     margin: 20,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     textAlign: "center",
     fontSize: 18,
     color: 'black'

@@ -53,7 +53,7 @@ export default {
   btnBuyText: {
     color: "white",
     fontSize: 14,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   btnBack: {
     flex: 0.5,
@@ -63,7 +63,7 @@ export default {
     color: "#999",
     fontSize: 14,
     fontWeight: "bold",
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
 
   row: {
@@ -88,12 +88,12 @@ export default {
   label: {
     fontSize: 18,
     color: Color.Text,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   value: {
     fontSize: 16,
     color: Color.headerTintColor,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
 
   contentEmpty: {
@@ -114,7 +114,7 @@ export default {
     width: 230,
     lineHeight: 40,
     opacity: 0.8,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   message: {
     fontSize: 14,
@@ -123,7 +123,7 @@ export default {
     width: Styles.window.width,
     marginTop: 10,
     lineHeight: 25,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
 
   button: (theme) => ({
@@ -134,7 +134,7 @@ export default {
   }),
   buttonText: {
     fontSize: 15,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   total: {
     fontSize: 16,

@@ -446,7 +446,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: moderateScale(16),
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
     color: "#212529",
   },
   priceContainer: {
@@ -459,13 +459,14 @@ const styles = StyleSheet.create({
   price: {
     fontSize: 16,
     color: Color.Text,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
     marginBottom: 10,
   },
   productVariant: {
     fontSize: moderateScale(16),
     color: "#212529",
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   btnRemove: {
     justifyContent: "center",

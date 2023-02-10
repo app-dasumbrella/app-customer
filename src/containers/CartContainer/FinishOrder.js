@@ -415,7 +415,8 @@ const styles = {
     fontSize: 25,
     fontWeight: "bold",
     marginTop: 40,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
   iconContainer: {
     alignItems: "center",
@@ -427,7 +428,7 @@ const styles = {
     color: "gray",
     lineHeight: 25,
     margin: 20,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   button: (theme) => ({
     height: 40,
@@ -449,17 +450,18 @@ const styles = {
   title2: {
     color: `rgba(0,0,0,0.8)`,
     fontSize: 16,
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   title3: {
     color: `rgba(0,0,0,0.8)`,
     fontSize: 16,
     fontWeight: 'bold',
-    fontFamily: Constants.fontFamily,
+    // fontFamily: Constants.fontFamily,
   },
   price: {
     color: Color.Text,
     fontSize: 16,
-    fontFamily: Constants.fontFamilyBold,
+    // fontFamily: Constants.fontFamilyBold,
+
   },
 };

@@ -10,7 +10,7 @@ export default StyleSheet.create({
   },
   buttonText: {
     fontSize: 15,
-    fontFamily: Constants.fontHeader,
+    //fontFamily: Constants.fontHeader,
   },
   icon: {
     width: 50,

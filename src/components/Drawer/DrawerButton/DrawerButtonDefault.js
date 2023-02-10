@@ -29,6 +29,7 @@ class DrawerButton extends Component {
           activeOpacity={0.8}
           style={[
             styles.container,
+
             isActive && {
               borderLeftWidth: 1,
               borderColor: Color.SideMenuTextActived,

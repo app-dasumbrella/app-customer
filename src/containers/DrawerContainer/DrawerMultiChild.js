@@ -97,7 +97,7 @@ export default class DrawerMultiChild extends Component {
     const { category, selectedCategory } = this.props;
 
     return (
-      <View>
+      <View >
         {category.list.map((cate, index) => {
           return (
             <View key={index.toString()} style={{ marginLeft: 20 }}>
@@ -195,7 +195,7 @@ export default class DrawerMultiChild extends Component {
             <Text style={styles.email}>{userInfo ? userInfo.email : ""}</Text>
           </View>
         </View> */}
-        <ScrollView  >
+        <ScrollView  style={{marginTop:30}}>
           {buttonList.map((item, index) => (
             <DrawerButton
               {...item}

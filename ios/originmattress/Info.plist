@@ -29,23 +29,33 @@
 			<array>
 				<string>com.googleusercontent.apps.859300383159-04t97ce7hu466087eetbnru0v771j6te</string>
 			</array>
-      
 		</dict>
 		<dict>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>fb1029288564679523</string>
-			</array>
-      <key>FacebookAppID</key>
-      <string>1029288564679523</string>
-      <key>FacebookDisplayName</key>
-      <string>Origin Mattress</string>
-    </dict>
+
+		</dict>
 	</array>
+  <key>CFBundleURLTypes</key>
+  <array>
+    <dict>
+    <key>CFBundleURLSchemes</key>
+    <array>
+      <string>fb1029288564679523</string>
+    </array>
+    </dict>
+  </array>
+  <key>FacebookAppID</key>
+  <string>1029288564679523</string>
+  <key>FacebookClientToken</key>
+  <string>728efe7f56c0378a49ef1bfe921b8705</string>
+  <key>FacebookDisplayName</key>
+  <string>Origin Mattress</string>
+  
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>FacebookAppID</key>
+	<string>1029288564679523</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>

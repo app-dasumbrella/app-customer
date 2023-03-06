@@ -6,6 +6,7 @@ install! 'cocoapods', :deterministic_uuids => false
 
 target 'OriginMattress' do
   config = use_native_modules!
+  pod 'react-native-fbsdk-next', :path => '../node_modules/react-native-fbsdk-next'
 
   # Flags change depending on the env values.
   flags = get_default_flags()

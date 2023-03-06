@@ -40,7 +40,7 @@
     "react-native-dialog": "5.6.0",
     "react-native-drawer": "https://github.com/luyx2412/react-native-drawer.git",
     "react-native-dropdown-picker": "^5.1.23",
-    "react-native-fbsdk-next": "^4.3.0",
+    "react-native-fbsdk-next": "^11.1.0",
     "react-native-gesture-handler": "~1.5.0",
     "react-native-linear-gradient": "^2.6.2",
     "react-native-modalbox": "2.0.0",

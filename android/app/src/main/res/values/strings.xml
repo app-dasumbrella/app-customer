@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OriginMattress</string>
+        <string name="facebook_app_id">1029288564679523</string>
+<string name="server_client_id">859300383159-0h45hfvdi6f5i5t36jrrnuv3212arbe0.apps.googleusercontent.com</string>
+
+<!-- <string name="facebook_app_id">1234</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">56789</string> -->
+
+
+</resources>

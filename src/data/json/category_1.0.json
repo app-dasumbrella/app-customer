@@ -1,0 +1,38 @@
+{
+  "categories": {
+    "list": [
+      {
+        "id": "4",
+        "title": "Featured Products",
+        "description": "",
+        "imgurl": "https://airpurifiers.sg/wp-content/uploads/2020/12/Asset-6@4x-8-1024x433.png",
+        "slug": "https://app.airpurifiers.sg/category/featured/",
+        "products": ["1", "6", "7"]
+      },
+      {
+        "id": "1",
+        "title": "Cosmo Air Purifier",
+        "description": "",
+        "imgurl": "https://airpurifiers.sg/wp-content/uploads/2020/12/Asset-6@4x-8-1024x433.png",
+        "slug": "https://app.airpurifiers.sg/category/airpurifier/",
+        "products": ["1", "6"]
+      },
+      {
+        "id": "2",
+        "title": "Cosmo Air Filters",
+        "description": "",
+        "imgurl": "https://airpurifiers.sg/wp-content/uploads/2020/12/Asset-6@4x-8-1024x433.png",
+        "slug": "https://app.airpurifiers.sg/category/airfilter/",
+        "products": ["7", "6"]
+      },
+      {
+        "id": "3",
+        "title": "Cosmo Bundles",
+        "description": "",
+        "imgurl": "https://airpurifiers.sg/wp-content/uploads/2020/12/Asset-6@4x-8-1024x433.png",
+        "slug": "https://app.airpurifiers.sg/category/bundles/",
+        "products": []
+      }
+    ]
+  }
+}

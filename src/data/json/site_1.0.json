@@ -1,0 +1,61 @@
+{
+    "id" : "1",
+    "name" : "Cosmo Air Purifier",
+    "currency" : "MYR",
+    "logo_url" : "https://airpurifiers.sg/wp-content/uploads/2020/01/Cosmo-Logo.png",
+
+    "settings" : {
+        "state_enabled" : "yes",
+        "country" : "SG",
+        "payment" : [
+            {
+                "title" : "Pay with Credit Card",
+                "image" : "https://airpurifiers.sg/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg",
+                "enabled" : "yes"
+            }
+        ],
+        "bnpl" : [
+            {
+                "title" : "Atome - 3 Easy Payment",
+                "image" : "https://airpurifiers.sg/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg",
+                "view_more" : "https://someurl.here",
+                "color" : "#D56A77",
+                "installment" : "3",
+                "recurring" : "15"
+            },
+            {
+                "title" : "Rely - 4 Payments",
+                "image" : "https://airpurifiers.sg/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg",
+                "view_more" : "https://someurl.here",
+                "color" : "#F5DA77",
+                "installment" : "4",
+                "recurring" : "20"
+            },
+            {
+                "title" : "Another Payment here",
+                "image" : "https://airpurifiers.sg/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg",
+                "view_more" : "https://someurl.here",
+                "color" : "#B56F77",
+                "installment" : "20",
+                "recurring" : "30"
+            }
+        ],
+        "deposit" : {},
+        "subscription" : {}
+    },
+    "theme" : {
+        "primaryColor" : "#F44A22",
+        "secondaryColor" : "#000000"
+    },
+    "banner" : [
+        {
+            "src" : "https://airpurifiers.sg/wp-content/uploads/2020/12/Asset-6@4x-8-1024x433.png"
+        }, 
+        {
+            "src" : "https://airpurifiers.sg/wp-content/uploads/2020/12/Asset-7@4x-8.png"
+        }, 
+        {
+            "src" : "https://airpurifiers.sg/wp-content/uploads/2020/06/shop-1-1024x604.png"
+        }
+    ]
+}
